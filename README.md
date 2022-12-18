@@ -1,3 +1,6 @@
 # hello-world
 My first repository
-Ble ble ble Ale to bleee ###
+Ble ble Ale to bleee ###
+co tu się zmieniło ?? 
+
+:)
